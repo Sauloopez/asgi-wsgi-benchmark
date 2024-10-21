@@ -1,0 +1,6 @@
+asgiref==3.8.1
+click==8.1.7
+Django==5.1.2
+granian==1.6.1
+sqlparse==0.5.1
+uvloop==0.21.0
